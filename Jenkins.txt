@@ -6,7 +6,7 @@ pipeline {
 			dir('C:\\')
 			{
         		bat("""
-		            https://github.com/xricherenkova/Test-Job.git
+		            git clone https://github.com/xricherenkova/Test-Job.git
 		            """)
 			}
 		    }
