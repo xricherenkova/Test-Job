@@ -25,7 +25,7 @@ pipeline {
                 steps{
 			dir('C:\\'){
 				echo "Current build: ${BUILD_NUMBER}"
-				zip zipFile: "${BUILD_NUMBER}.zip", archive:false, dir: 'Results'
+				zip zipFile: "${BUILD_NUMBER}.zip", archive:false, dir: 'C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\MyJob'
 				archiveArtifacts artifacts: "${BUILD_NUMBER}.zip"
 			}
 		}
