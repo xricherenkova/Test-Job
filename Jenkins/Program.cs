@@ -9,6 +9,6 @@ namespace Jenkins
             var animal = new Number();
             Console.WriteLine(animal.GetNumber(8));
             Console.ReadLine();
-        } }
+        } 
     }
 }
