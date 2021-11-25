@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xristina\\Downloads\\Jenkins\\Jenkins\\Jenkins\\Jenkins.csproj",
+      "projectUniqueName": "C:\\Users\\Xristina\\Source\\Repos\\Test-Job\\Jenkins\\Jenkins.csproj",
       "projectName": "Jenkins",
-      "projectPath": "C:\\Users\\Xristina\\Downloads\\Jenkins\\Jenkins\\Jenkins\\Jenkins.csproj",
+      "projectPath": "C:\\Users\\Xristina\\Source\\Repos\\Test-Job\\Jenkins\\Jenkins.csproj",
       "packagesPath": "C:\\Users\\Xristina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Xristina\\Downloads\\Jenkins\\Jenkins\\Jenkins\\obj\\",
+      "outputPath": "C:\\Users\\Xristina\\Source\\Repos\\Test-Job\\Jenkins\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Xristina\\AppData\\Roaming\\NuGet\\NuGet.Config",
