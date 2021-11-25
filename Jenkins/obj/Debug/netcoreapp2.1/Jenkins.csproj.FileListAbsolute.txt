@@ -37,3 +37,16 @@ C:\Users\Xristina\Downloads\Jenkins\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenk
 C:\Users\Xristina\Downloads\Jenkins\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.dll
 C:\Users\Xristina\Downloads\Jenkins\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.pdb
 C:\Users\Xristina\Downloads\Jenkins\Jenkins\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.genruntimeconfig.cache
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\bin\Debug\netcoreapp2.1\Jenkins.deps.json
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\bin\Debug\netcoreapp2.1\Jenkins.runtimeconfig.json
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\bin\Debug\netcoreapp2.1\Jenkins.runtimeconfig.dev.json
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\bin\Debug\netcoreapp2.1\Jenkins.dll
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\bin\Debug\netcoreapp2.1\Jenkins.pdb
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.csproj.AssemblyReference.cache
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.AssemblyInfoInputs.cache
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.AssemblyInfo.cs
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.csproj.CoreCompileInputs.cache
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.dll
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.pdb
+C:\Users\Xristina\Source\Repos\Test-Job\Jenkins\obj\Debug\netcoreapp2.1\Jenkins.genruntimeconfig.cache

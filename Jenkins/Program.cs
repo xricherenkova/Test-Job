@@ -7,8 +7,8 @@ namespace Jenkins
         static void Main(string[] args)
         {
             var animal = new Number();
-            Console.WriteLine(animal.GetNumber(7));
+            Console.WriteLine(animal.GetNumber(8));
             Console.ReadLine();
-        }
+        } }
     }
 }
