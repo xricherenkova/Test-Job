@@ -21,5 +21,14 @@ pipeline {
                 	bat ('C:\\Test-Job\\test.bat')
 		}
             }
+	    stage('Archive'){
+                steps{
+			dir('C:\\'){
+				echo "Current build: ${BUILD_NUMBER}"
+				zip zipFile: "${BUILD_NUMBER}.zip", archive:false, dir: 'Results'
+				archiveArtifacts artifacts: "${BUILD_NUMBER}.zip"
+			}
+		}
+	    }
 	}
 }
