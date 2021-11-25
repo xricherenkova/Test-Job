@@ -16,7 +16,7 @@ pipeline {
                 	bat ('C:\\Test-Job\\build.bat')
 		}
             }
-	     stage('Build') {
+	     stage('Test') {
             	steps {
                 	bat ('C:\\Test-Job\\test.bat')
 		}
