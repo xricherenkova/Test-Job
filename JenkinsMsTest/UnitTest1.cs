@@ -11,7 +11,7 @@ namespace JenkinsMsTest
             Number animal = new Number();
             int expectedNumber = 7;
 	    
-            int number = animal.GetNumber(expectedNumber);
+            int number = animal.GetNumber(9);
             Assert.AreEqual(expectedNumber, number);
         }
     }
